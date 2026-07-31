@@ -7,7 +7,7 @@
 %global crate futures-executor
 
 Name:           rust-%{crate}
-Version:        0.3.4
+Version:        0.3.33
 Release:        1%{?dist}
 Summary:        Executors for asynchronous tasks based on the futures-rs library
 
